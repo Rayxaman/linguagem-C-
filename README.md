@@ -1,2 +1,2 @@
 # linguagem-C-
-Atividades práticas em C++ 
+Atividades práticas da faculdade em linguagem C++ 
